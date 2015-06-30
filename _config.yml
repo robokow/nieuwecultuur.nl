@@ -1,0 +1,13 @@
+# Site settings
+title: Nieuwe Cultuur
+#email: your-email@domain.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://nieuwecultuur.nl" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+description: Nieuwe Cultuur wil helpen om de cultuur verder te dragen, verder dan waar we vandaag staan. Het wil een nieuwe horizon creëren, een vergezicht maken.
