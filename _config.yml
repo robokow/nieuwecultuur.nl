@@ -4,7 +4,7 @@ title: Nieuwe Cultuur
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nieuwecultuur.nl" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  robokow
 
 # Build settings
 markdown: kramdown
